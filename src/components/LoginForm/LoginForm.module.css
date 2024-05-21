@@ -1,0 +1,36 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.login-inputs {
+  display: flex;
+  width: 350px;
+  height: 30px;
+}
+
+.submit-btn {
+  border: none;
+  padding: 0;
+  width: 150px;
+  height: 30px;
+  margin-top: 20px;
+  color: inherit;
+  background-color: transparent;
+}
+
+.submit-btn:hover {
+  color: whitesmoke;
+}
+
+.form-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

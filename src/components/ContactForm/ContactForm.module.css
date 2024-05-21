@@ -1,0 +1,35 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.contact-inputs {
+  width: 350px;
+  height: 30px;
+}
+
+.add-btn {
+  border: none;
+  padding: 0;
+  width: 150px;
+  height: 30px;
+  margin-top: 20px;
+  color: inherit;
+  background-color: transparent;
+}
+
+.add-btn:hover {
+  color: whitesmoke;
+}
+
+.contact-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

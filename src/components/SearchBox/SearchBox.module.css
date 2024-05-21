@@ -1,0 +1,16 @@
+.searching label input {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 30px;
+}
+
+.searching {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.input {
+  margin-top: 10px;
+}
